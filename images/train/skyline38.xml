@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>skyline38.jpg</filename>
+	<path>C:\Users\SRIRAM VETURI\Desktop\Sriram\Chicago Crime Analysis\train\skyline38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>willis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>42</ymin>
+			<xmax>623</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
